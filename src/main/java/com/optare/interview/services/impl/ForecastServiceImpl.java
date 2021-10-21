@@ -40,5 +40,3 @@ public class ForecastServiceImpl implements ForecastService {
         return result;
     }
 }
-
-
